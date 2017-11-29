@@ -1,6 +1,9 @@
 # CS510 CW 13
 
-**Author(s):** **CHANGEME**
+Name: Julie Gardner-Hoag, Aly Baughman, Ehsan Yaghmaei<br>
+Student ID: 2299636, 1923165, 2285887<br>
+Email: gardnerh@chapman.edu, baugh107@mail.chapman.edu, yaghm101@mail.chapman.edu<br>
+Course: CS510 Fall 2017 
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-13-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-13-YOURNAME)
 
@@ -46,4 +49,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Julie Gardner-Hoag, Aly Baughman, Ehsan Yaghmaei
